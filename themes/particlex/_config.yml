@@ -1,0 +1,97 @@
+# Theme Github link: https://github.com/argvchs/hexo-theme-particlex
+# Developer: argvchs
+
+# html lang
+language: zh
+
+# avatar image url
+head_img: https://blog.lijiakaijun.cyou/me.webp
+# 头像 
+
+# home page head info block
+head_block_enable: true
+
+# home page head background style 网站首页头图
+home_background: https://pic.lijiakaijun.cyou/dark.webp
+
+# WARNING! vf_fonts (variable fonts) feature is EXPERIMENTAL
+# MDN: https://developer.mozilla.org/zh-CN/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
+# 不知道什么东西，保持默认
+vf_fonts_enable: false
+
+# ParticleX theme icon is adopts the font awesome 6
+# Link: https://fontawesome.com/search/
+
+# main menu navigation 网站顶部导航栏
+menu:
+    主页:
+        name: house
+        theme: solid
+        src: # You shouldn't add anything else here
+    关于:
+        name: id-card
+        theme: solid
+        src: about
+    档案:
+        name: box-archive
+        theme: solid
+        src: archives
+    分类:
+        name: bookmark
+        theme: solid
+        src: categories
+    标签:
+        name: tags
+        theme: solid
+        src: tags
+    # Example:
+    # <name>: # 名字
+    #     name: <icon-name> 图标名字，在 https://fontawesome.com/search/ 找有没有要加的
+    #     theme: <icon-theme> 无脑用 solid 大概就行了
+    #     src: <link-url> 路径，前面不需要加 /
+
+# side info card
+card: #首页右边框
+    enable: true
+    description: ["Description..."] # You can add more
+    icon_links: # 社交链接
+        github:
+            name: github
+            theme: brands
+            link: https://github.com/argvchs
+        # Example:
+        # <name>: # 名字
+        #    name: <icon-name> 图标名字，在 https://fontawesome.com/search/ 找有没有要加的
+        #    theme: <icon-theme> 无脑用 brands 大概就行了
+        #    link: <link-url> 链接，确保以 https:// 开头
+    friend_links: # 友情链接
+        测试: https://lijiakaijun.cyou
+        # [] 友情链接为空的时候才用
+        # Example:
+        # <name>: <link-url> 网站名称: 链接
+
+# footer info 网站尾部，一般或许不需要修改
+footer:
+    since: 20xx
+    # Customize the server domain name ICP
+    ICP:
+        enable: false
+        code:
+
+# Gitalk 评论，需要换其他的就自己改（确信）
+# https://github.com/gitalk/gitalk
+gitalk:
+    enable: false
+    clientID: # Default ClientID
+    clientSecret: # Default ClientSecret
+    repo: # The name of repository of store comments
+    owner: # GitHub repo owner
+    admin: # GitHub repo owner and collaborators, only these guys can initialize github issues
+    language: zh-CN # en, zh-CN, zh-TW, es-ES, fr, ru, de, pl and ko are currently available.
+    proxy: # CORS proxy
+    sites: # Sites
+        []
+        # Example:
+        # <www.example.com>:
+        #    clientID: <client-id>
+        #    clientSecret: <client-secret>
