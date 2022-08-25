@@ -58,12 +58,22 @@ card: #首页右边框
         github:
             name: github
             theme: brands
-            link: https://github.com/argvchs
+            link: https://github.com/ShinoMoe
         # Example:
         # <name>: # 名字
         #    name: <icon-name> 图标名字，在 https://fontawesome.com/search/ 找有没有要加的
         #    theme: <icon-theme> 无脑用 brands 大概就行了
         #    link: <link-url> 链接，确保以 https:// 开头
+
+        twitter:
+            name: twitter
+            theme: brands
+            link: https://twitter.com/Shino_Moe_Main
+            
+       telegram:
+            name: telegarm
+            theme: brands
+            link: https://t.me/Shino_Moe
     friend_links: # 友情链接
         测试: https://lijiakaijun.cyou
         # [] 友情链接为空的时候才用
