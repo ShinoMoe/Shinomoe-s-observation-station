@@ -1,8 +1,8 @@
 ---
-title: {{关于近期计划 }}
-date: {{ 2022.8.25 }}
-tags:日常
-catehories;近期计划
+title:关于近期计划
+date:2022.8.25
+tags: 日常
+catehories: 近期计划
 ---
 
 # 所谓近期是指近三个月的计划x
