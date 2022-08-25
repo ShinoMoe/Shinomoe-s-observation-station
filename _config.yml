@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:  ShinoMoe笔记本
-subtitle:  ''
-description:  'Shino进行一个笔记的写'
+title: ShinoMoe笔记本
+subtitle: 
+description: Shino进行一个笔记的写
 keywords: ShinoMoe
-author:  Shino Moe
-language:  zh-Hans
-timezone:  'Asia/Shanghai'
+author: "Shino Moe"
+language: zh-Hans
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
