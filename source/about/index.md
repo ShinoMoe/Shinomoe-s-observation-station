@@ -13,17 +13,21 @@ date: 2022-08-25 21:24:02
 - 前端~~(刚开始学)~~
 - 不会玩音游(点头)
 - ~~可能会涉及多重领域~~
-- ~~喜欢拍照~~
+- ~~喜欢摄影~~
+- ~~体育运动可能也（~~
 - ~~~想把自己变得更强~~
 
 # 关于Shino的由来
 
 就可以理解为，莫名其妙Shino就出现了（
-出现于2022.8.12（
+出现于8.12（
 
 # 关于这个blog
 
-##会不定期分享各种东西(？)
+Q:为什么会有这个blog
+A：就想分享一些想分享的事情，~~可以理解为因为有就有了~~
+
+## 会不定期分享各种东西(？)
 ~~不过什么时候更新就是另外一回事了~~
 
 # 关于社交平台
@@ -32,13 +36,13 @@ date: 2022-08-25 21:24:02
 <a class="link" target="_blank" rel="noopener" href="https://twitter.com/Shino_Moe_Main">@Shino_Moe_Main<i class="fas fa-external-link-alt"></i></a>
 
 Telegram
-<a class="link" target="_blank" rel="noopener" href="https://t.me/Shino_Moe">Shino_Moe<i class="fas fa-external-link-alt"></i></a>
+<a class="link" target="_blank" rel="noopener" href="https://t.me/Shino_Moe">@Shino_Moe<i class="fas fa-external-link-alt"></i></a>
 Telegram Groups
 <a class="link" target="_blank" rel="noopener" href="https://t.me/+nHjrRE2aEDQzNzVl">一个群组<i class="fas fa-external-link-alt"></i></a>
 
 # 最后
 
 ## 很高兴你能看到这里
-（本页会不定期更新
+~~（本页会不定期更新）~~
 
 # 祝您愉快，谢谢~

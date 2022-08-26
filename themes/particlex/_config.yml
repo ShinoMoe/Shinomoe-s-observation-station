@@ -68,7 +68,11 @@ card: #首页右边框
             theme: brands
             link: https://t.me/Shino_Moe
     friend_links: # 友情链接
-        测试: https://lijiakaijun.cyou
+        摇曳的紫丁香🌌: https://blog.lijiakaijun.cyou/
+        Cynosura: https://blog.fonx.xyz/
+        鱼类观测研究所: https://lz233.ac.cn/
+        Moe23333's Blog: https://moe23333.vercel.app
+        Isoheptane: https://blog.cascade.moe/
         # [] 友情链接为空的时候才用
         # Example:
         # <name>: <link-url> 网站名称: 链接
