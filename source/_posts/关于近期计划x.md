@@ -1,6 +1,6 @@
 ---
-title:关于近期计划
-date:2022.8.25
+title: 关于近期计划
+date: 2022.8.25
 tags: 日常
 catehories: 近期计划
 ---
