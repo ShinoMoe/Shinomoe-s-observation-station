@@ -82,8 +82,8 @@ footer:
     since: 20xx
     # Customize the server domain name ICP
     ICP:
-        enable: false
-        code:
+        enable: true
+        code: <a href="https://icp.gov.moe/?keyword=20228012" target="_blank">萌ICP备20228012号</a>
 
 # Gitalk 评论，需要换其他的就自己改（确信）
 # https://github.com/gitalk/gitalk
