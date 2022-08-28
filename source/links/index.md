@@ -23,6 +23,11 @@ links:
     avatar: /img/friends/七碳.jpg
     blog: Isoheptane
     desc: 工程师猫娘
+  - url: https://xve.me/blog
+    avatar: /img/friends/炖鱼.jpg
+    blog: 小萌新's Blog
+    desc: 炖鱼的碎碎念
+   
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
 ---
