@@ -4,11 +4,11 @@
 
 # Site
 title: ShinoMoe笔记本
-subtitle: 
+subtitle: Shino渴望做自己
 description: Shino进行一个笔记的写
 keywords: ShinoMoe
 author: "Shino Moe"
-language: zh-Hans
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -51,7 +51,7 @@ highlight:
     wrap: true
     hljs: false
 prismjs:
-    enable: false
+    enable: true
     preprocess: true
     line_number: true
     tab_replace: ""
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: particlex
+theme: yun
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

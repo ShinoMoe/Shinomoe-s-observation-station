@@ -1,0 +1,122 @@
+# 网站基本配置
+favicon: /img/图标.jpg
+
+# 可选 light | dark | auto | time
+mode: auto
+
+
+colors:
+  primary: '#6200ee'
+  # bg: "#F5F5F5" 
+  # 背景色，可选
+  selection_bg: '#8e71c1' # 选取文字时的背景色
+  # 标签云中标签的起始色和结束色
+  # tag_start_color:
+  # tag_end_color:
+
+# 网站左侧栏
+# 社交链接
+social:
+  - name: GitHub
+    link: https://github.com/YunYouJun
+    icon: ri:github-line
+    color: '#181717'
+  - name: Twitter
+    link: https://twitter.com/YunYouJun
+    icon: ri:twitter-line
+    color: '#1da1f2'
+  - name: Telegram
+    link: https://t.me/YunYouJun
+    icon: ri:telegram-line
+    color: '#0088CC'
+
+avatar:
+  enable: true
+  url: /img/头像.png
+  rounded: true
+  opacity: 1
+  mickey_mouse: false
+  status: #状态
+    enable: false
+    emoji: 😭
+    message: 不想上学
+
+menu:
+  home:
+    path: /
+    icon: ri:home-4-line
+  list:
+    - type: archives
+      path: /archives/
+      icon: ri:archive-line
+    - type: categories
+      path: /categories/
+      icon: ri:folder-2-line
+    - type: tags
+      path: /tags/
+      icon: ri:price-tag-3-line
+    # - path: https://www.yunyoujun.cn
+    #   icon: ri:cloud-line
+    #   count: 你猜
+
+pages:
+  - name: 我的小伙伴们
+    url: /links/
+    icon: ri:genderless-line
+    color: dodgerblue
+
+# 网站首页
+# 垂直交错排列文字效果
+banner:
+  enable: true
+  title: 渴望做自己
+  border: true
+  cloud:
+    enable: true
+    color: white
+  go_down:
+    enable: true
+    icon: ri:arrow-down-s-line
+
+# 公告
+notice:
+  enable: false
+  content: Thanks for playing my game.
+
+bg_image:
+  enable: true
+  url: /img/壁纸.png
+  # dark:
+  # blur: 30px # 设置背景模糊程度
+  opacity: 0.8
+
+# 卡片透明度
+post_card:
+  opacity: 0.8
+
+# 卡片内信息
+post_meta:
+  item_text: false #显示文字
+  created_at: true #创建时间
+  updated_at: true #更新时间
+  categories: true #种类
+  tags: true #标签
+
+# 文章内
+codeblock: # 代码一键复制
+  copy_btn: true
+
+creative_commons: #版权
+  license: by-nc-sa
+  post: false
+  language: deed.zh
+  clipboard: false
+
+# 页脚
+footer:
+  since: 2022
+  powered:
+    enable: true
+  custom_text: 
+
+# 备注：主题配置见 https://yun.yunyoujun.cn/guide/config.html
