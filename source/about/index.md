@@ -49,4 +49,6 @@ Telegram Groups
 
 此blog感谢千畔全程协作，也谢谢在此站建设过程中帮助过shino的人
 
+# Shino非常高兴与您同行
+
 # 祝您愉快，谢谢~

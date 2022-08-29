@@ -23,6 +23,10 @@ links:
     avatar: /img/friends/七碳.jpg
     blog: Isoheptane
     desc: 工程师猫娘
+  - url: https://moe23333.vercel.app
+    avatar: /img/friends/avatar.jpg
+    blog: Moe23333's Blog
+    desc: QwQ QAQ TwT
   - url: https://xve.me/blog
     avatar: /img/friends/炖鱼.jpg
     blog: 小萌新's Blog
