@@ -24,7 +24,7 @@ links:
     blog: Isoheptane
     desc: 工程师猫娘
   - url: https://moe23333.vercel.app
-    avatar: /img/friends/avatar.jpg
+    avatar: /img/friends/avatar.png
     blog: Moe23333's Blog
     desc: QwQ QAQ TwT
   - url: https://xve.me/blog
