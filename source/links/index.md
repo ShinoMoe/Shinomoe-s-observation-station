@@ -31,6 +31,10 @@ links:
     avatar: /img/friends/炖鱼.jpg
     blog: 小萌新's Blog
     desc: 炖鱼的碎碎念
+  - url: https://lovemen.cc/
+    avatar: /img/friends/橘.jpg
+    blog: Juziyou's Blog
+    desc: 一颗烂橘子
    
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
