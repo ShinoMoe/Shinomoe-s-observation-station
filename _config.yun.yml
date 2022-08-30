@@ -69,7 +69,7 @@ pages:
 # 垂直交错排列文字效果
 banner:
   enable: true
-  title: 渴望做自己
+  title: 愿每个人被温柔相待
   border: true
   cloud:
     enable: true
