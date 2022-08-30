@@ -35,6 +35,10 @@ links:
     avatar: /img/friends/橘.jpg
     blog: Juziyou's Blog
     desc: 一颗烂橘子
+  - url: https://blog.dna.moe
+    avatar: /img/friends/ZuraHanamaru.jpg
+    blog: DNARoma's DevOps Blog
+    desc:  想穿小裙子的咸鱼
    
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
