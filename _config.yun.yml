@@ -18,15 +18,15 @@ colors:
 # 社交链接
 social:
   - name: GitHub
-    link: https://github.com/YunYouJun
+    link: https://github.com/ShinoMoe
     icon: ri:github-line
     color: '#181717'
   - name: Twitter
-    link: https://twitter.com/YunYouJun
+    link: https://twitter.com/Shino_Moe_Main
     icon: ri:twitter-line
     color: '#1da1f2'
   - name: Telegram
-    link: https://t.me/YunYouJun
+    link: https://t.me/Shino_Moe
     icon: ri:telegram-line
     color: '#0088CC'
 
