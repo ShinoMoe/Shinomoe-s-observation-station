@@ -80,8 +80,8 @@ banner:
 
 # 公告
 notice:
-  enable: false
-  content: Thanks for playing my game.
+  enable: true
+  content: 若风停下来的时候，愿樱花吹向远方，启航
 
 bg_image:
   enable: true

@@ -8,7 +8,6 @@ Shino很感谢且很荣幸也很高兴的你能看到这篇关于shino的自我�
 
 # 首先 
 
-## Shino渴望做自己
 想做一个温柔的人
 
 ## 关于兴趣
@@ -36,9 +35,8 @@ A：就想分享一些想分享的事情，~~可以理解为因为有就有了~~
 
 # 关于社交平台
 
-## Twitter
+Twitter
 <a class="link" target="_blank" rel="noopener" href="https://twitter.com/Shino_Moe_Main">@Shino_Moe_Main<i class="fas fa-external-link-alt"></i></a>
-
 Telegram
 <a class="link" target="_blank" rel="noopener" href="https://t.me/Shino_Moe">@Shino_Moe<i class="fas fa-external-link-alt"></i></a>
 Telegram Groups
