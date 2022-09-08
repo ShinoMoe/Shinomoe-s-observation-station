@@ -38,7 +38,11 @@ links:
   - url: https://blog.dna.moe
     avatar: /img/friends/ZuraHanamaru.jpg
     blog: DNARoma's DevOps Blog
-    desc:  想穿小裙子的咸鱼
+    desc: 想穿小裙子的咸鱼
+  - url: https://mikan.bangdream.moe
+    avatar: /img/friends/Aaki.jpeg
+    blog: Aaki‘s Notes
+    desc: 蜜柑的日记本
    
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
