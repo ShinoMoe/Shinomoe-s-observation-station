@@ -36,7 +36,7 @@ A：就想分享一些想分享的事情，~~可以理解为因为有就有了~~
 # 关于社交平台
 
 Twitter
-<a class="link" target="_blank" rel="noopener" href="https://twitter.com/Shino_Moe_Main">@Shino_Moe_Main<i class="fas fa-external-link-alt"></i></a>
+<a class="link" target="_blank" rel="noopener" href="https://twitter.com/ShinoMoe_Neko">@ShinoMoe_Neko<i class="fas fa-external-link-alt"></i></a>
 Telegram
 <a class="link" target="_blank" rel="noopener" href="https://t.me/Shino_Moe">@Shino_Moe<i class="fas fa-external-link-alt"></i></a>
 Telegram Groups
@@ -51,6 +51,6 @@ Telegram Groups
 
 #如果你有任何关于shino的疑问，请联系Shino
 
-## 愿樱花，吹向温柔的远方
+## 谢谢你曾经来过
 
 # 祝您旅途愉快，谢谢
