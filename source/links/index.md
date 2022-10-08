@@ -18,7 +18,7 @@ links:
   - url: https://lz233.ac.cn/
     avatar: /img/friends/鱼.jpg
     blog: 鱼类观测研究所
-    desc: 想做一个幸福的人
+    desc: 不文学不少女
   - url: https://blog.cascade.moe/
     avatar: /img/friends/七碳.jpg
     blog: Isoheptane
