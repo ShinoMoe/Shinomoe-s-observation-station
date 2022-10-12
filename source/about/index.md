@@ -3,7 +3,7 @@ title: 关于ShinoMoe
 date: 2022-08-25 21:24:02
 ---
 
-关于Shino猫猫
+关于ShinoMoe（AKA 樱白.）
 （本篇仅为一部分，为了您更好了解，可以通过多种不同的方式来了解shino）
 
 # 首先 
