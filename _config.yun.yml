@@ -69,7 +69,7 @@ pages:
 # 垂直交错排列文字效果
 banner:
   enable: true
-  title: 愿每个人被温柔相待
+  title: 愿我们都无需用一生的时间治愈童年
   border: true
   cloud:
     enable: true
