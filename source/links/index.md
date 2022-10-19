@@ -43,6 +43,11 @@ links:
     avatar: /img/friends/Aaki.jpeg
     blog: Aaki‘s Notes
     desc: 蜜柑的日记本
+  - url: https://www.fantanstic.top/
+    avatar: /img/friends/head.jpg
+    blog: Life is fantanstic.
+    desc: 老陈の咸鱼日常
+
    
 placeholder: 还没想好说些什么 # 默认对友链的描述
 tip: 友链加载中～如失败请刷新重试～
