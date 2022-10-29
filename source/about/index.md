@@ -8,7 +8,7 @@ date: 2022-08-25 21:24:02
 
 # 首先 
 
-是大猫猫樱白！
+是大猫猫真白！
 
 ## 关于兴趣与爱好
 
@@ -34,7 +34,8 @@ A：分享一些想分享的事物和体验
 ~~不过什么时候更新就是另外一回事了~~
 
 # 关于社交平台
-
+astodon
+<a class="link" target="_blank" rel="noopener" href="https://mastodon.social/@ShinoMoe">@ShinoMoe<i class="fas fa-external-link-alt"></i></a>
 Twitter
 <a class="link" target="_blank" rel="noopener" href="https://twitter.com/ShinoMoe_Neko">@ShinoMoe_Neko<i class="fas fa-external-link-alt"></i></a>
 Telegram
