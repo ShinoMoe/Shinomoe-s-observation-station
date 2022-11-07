@@ -45,7 +45,7 @@ links:
     desc: 蜜柑的日记本
   - url: https://www.fantanstic.top/
     avatar: /img/friends/head.jpg
-    blog: Life is fantanstic.老陈の咸鱼日常
+    blog: 老陈の咸鱼日常
     desc: Life is fantanstic.
   - url: https://blog.tonyding.net/
     avatar: /img/friends/tony.jpg
