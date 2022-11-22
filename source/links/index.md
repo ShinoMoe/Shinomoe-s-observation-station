@@ -51,7 +51,7 @@ links:
     avatar: /img/friends/tony.jpg
     blog: Tony Ding's Blog
     desc: Shino：這是一個blog的說
-      - url: https://nekoq.eu.org
+  - url: https://nekoq.eu.org
     avatar: /img/friends/favicon.jpg
     blog: 湛蓝的调色板
     desc: 青く滲む 青く滲む 綺麗に / 浅渗湛蓝 纵使青涩 难掩绮丽
@@ -59,7 +59,6 @@ links:
     avatar: /img/friends/TLY.jpg
     blog: 天神のBlog
     desc: 天天打游戏的乐色程序员qaq
-
 
    
 placeholder: 还没想好说些什么 # 默认对友链的描述
