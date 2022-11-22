@@ -56,7 +56,7 @@ links:
     blog: 湛蓝的调色板
     desc: 青く滲む 青く滲む 綺麗に / 浅渗湛蓝 纵使青涩 难掩绮丽
   - url: https://tian-shen.cyou/
-    avatar: /img/friends/TLY.jpg
+    avatar: /img/friends/LTY.jpg
     blog: 天神のBlog
     desc: 天天打游戏的乐色程序员qaq
 
